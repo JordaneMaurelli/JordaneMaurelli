@@ -18,6 +18,6 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jordane-garcia-1046ab120/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](malito:jordane.maurelli@gmail.com/)
+)](mailto:jordane.maurelli@gmail.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordaneMaurelli&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
